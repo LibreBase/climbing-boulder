@@ -1,0 +1,15 @@
+{
+  "boulders": [
+    {
+      "name": "Worthless Boulder",
+      "problems": [
+        {
+          "name": "Voodoo Bullshit",
+          "difficulty": "V2",
+          "quality": 4,
+          "safety": "G"
+        }
+      ]
+    }
+  ]
+}

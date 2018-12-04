@@ -1,0 +1,116 @@
+{
+  "boulders": [
+    {
+      "name": "The Lorax Boulder",
+      "problems": [
+        {
+          "name": "The Lorax",
+          "difficulty": "V4",
+          "quality": 4,
+          "safety": "G"
+        }
+      ]
+    },
+    {
+      "name": "Stained Boulder",
+      "problems": [
+        {
+          "name": "Stained Boulder Problem",
+          "difficulty": "V1",
+          "quality": 2,
+          "safety": "G"
+        }
+      ]
+    },
+    {
+      "name": "Clune Crank Boulder",
+      "problems": [
+        {
+          "name": "Clune Crank",
+          "difficulty": "V1",
+          "quality": 3,
+          "safety": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Keyhole",
+      "problems": [
+        {
+          "name": "Keyhole Left",
+          "difficulty": "V0",
+          "quality": 1,
+          "safety": "PG"
+        },
+        {
+          "name": "Keyhole Right",
+          "difficulty": "V1",
+          "quality": 3,
+          "safety": "PG"
+        },
+        {
+          "name": "Keyhole Offwidth",
+          "difficulty": "V1",
+          "quality": 3,
+          "safety": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Suzie's Boulder",
+      "problems": [
+        {
+          "name": "Suzie A",
+          "difficulty": "V1",
+          "quality": 4,
+          "safety": "PG13"
+        },
+        {
+          "name": "Suzie B",
+          "difficulty": "V1",
+          "quality": 2,
+          "safety": "R"
+        }
+      ]
+    },
+    {
+      "name": "Black Boulder",
+      "problems": [
+        {
+          "name": "Black Boulder Problem",
+          "difficulty": "V4",
+          "quality": 4,
+          "safety": "G"
+        }
+      ]
+    },
+    {
+      "name": "Dislocator Roof Boulder",
+      "problems": [
+        {
+          "name": "Dislocator Roof",
+          "difficulty": "V2",
+          "quality": 3,
+          "safety": "PG"
+        }
+      ]
+    },
+    {
+      "name": "The Buddha",
+      "problems": [
+        {
+          "name": "The Buddha",
+          "difficulty": "V6",
+          "quality": 4,
+          "safety": "PG"
+        },
+        {
+          "name": "Andrew's Boulder Problem",
+          "difficulty": "V4",
+          "quality": 4,
+          "safety": "PG"
+        }
+      ]
+    }
+  ]
+}
